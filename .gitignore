@@ -1,0 +1,6 @@
+# Cargo local configuration
+.cargo/
+
+# Added by cargo
+
+/target
